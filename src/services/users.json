@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "jauana",
+        "mail": "juana@gmail.com",
+        "password": "asorfjgu",
+        "comment": "Mu guapo muchas gracias"
+    },
+    {
+        "id": 2,
+        "name": "vicente",
+        "mail": "vicente@hotmail.com",
+        "password": "nweropg",
+        "comment": "Increible hermano"
+    },
+    {
+        "id": 3,
+        "name": "Sospechoso",
+        "mail": "vicentedelbosque@gmail.com",
+        "password": "piouhserg",
+        "comment": "Así así así gana el madrid"
+    },
+    {
+        "id": 4,
+        "name": "CR7",
+        "mail": "cristaronalda@icloud.con",
+        "password": "wieruh",
+        "comment": "SSSIIIUUUUUU"
+    }
+]
